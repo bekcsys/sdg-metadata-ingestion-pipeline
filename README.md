@@ -1,4 +1,4 @@
-# SDG-WatchList-Tracker
+# Seattle Data Guy (SDG) — YouTube Metadata Ingestion
 
 This repo will be regularly updated as new videos come in from Seattle Data Guy.
 
